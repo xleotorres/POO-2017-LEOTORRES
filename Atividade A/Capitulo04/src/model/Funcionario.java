@@ -5,8 +5,8 @@ public class Funcionario {
 	public String nome;
 	public double salario;
 	public String departamento;
-	public String data;
-	public String RG;
+	public Data dataDeEntrada;
+	public String rg;
 	
 	public void recebeAumento (double aumento) {
 		salario = salario + aumento;
@@ -20,6 +20,9 @@ public class Funcionario {
 		System.out.println("Nome: " + this.nome);
 		System.out.println("Salario: " + this.salario);
 		System.out.println("Ganho anual: " + this.calculaGanhoanual());
+		System.out.println("Data de Admissão: " + dataDeEntrada.dataFormatada());
+		System.out.println("Departamento: " + this.departamento);
+		System.out.println("RG: " + this.rg);
 	}
 	
 	
