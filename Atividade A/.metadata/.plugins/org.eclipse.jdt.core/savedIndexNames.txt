@@ -1,0 +1,4 @@
+INDEX VERSION 1.130+C:\Users\xleot\Documents\Nova pasta\.metadata\.plugins\org.eclipse.jdt.core
+4173359461.index
+1722088646.index
+295947344.index

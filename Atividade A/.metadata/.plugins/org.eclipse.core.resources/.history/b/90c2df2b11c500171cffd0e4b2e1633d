@@ -1,0 +1,19 @@
+
+public class Funcionario {
+
+	public String nome;
+	public double salario;
+	public String departamento;
+	public String data;
+	public String RG;
+	
+	void recebeAumento (double aumento) {
+		//a completar
+	}
+	
+	void calculaGanhoanual() {
+		//a completar
+	}
+	
+	
+}

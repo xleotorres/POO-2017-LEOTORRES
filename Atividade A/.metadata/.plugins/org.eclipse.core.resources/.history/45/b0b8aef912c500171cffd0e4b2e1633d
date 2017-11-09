@@ -1,0 +1,20 @@
+package model;
+
+public class Funcionario {
+
+	public String nome;
+	public double salario;
+	public String departamento;
+	public String data;
+	public String RG;
+	
+	void recebeAumento (double aumento) {
+		salario = salario + aumento;
+	}
+	
+	double calculaGanhoanual() {
+		return salario*12;
+	}
+	
+	
+}
