@@ -1,0 +1,4 @@
+01. O código irá compilar normalmente.
+
+02. Não será compilado caso um método construtor não tenha sido feito.
+

@@ -1,0 +1,18 @@
+01. Classe é um planejamento a ser seguido. O objeto seria algo concreto.
+Por exemplo: A receita de um bolo poderia ser a classe, a planta de uma casa.
+Já o bolo em si, ou a casa, seriam os objetos.
+
+02. Atributos seriam caracteristicas de determinados objetos. Já os métodos, 
+seriam os comportamentos ou ações desse objeto. Sendo um carro um objeto, 
+seus atributos e métodos seriam os seguintes:
+Atributos: cor, fabricante, modelo.
+Métodos: acelerar, trocar de marcha, freiar.
+
+03.
+
+04. a) Seria possível, mas o ideal é que "pessoa" fosse um objeto.
+    b)
+
+05. Aluno, professor, disciplina, curso e ...
+
+06. 
