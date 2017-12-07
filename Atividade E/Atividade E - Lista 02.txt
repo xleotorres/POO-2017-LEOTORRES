@@ -1,0 +1,17 @@
+01. javac Avaliacao.java << compilação
+    javac Avaliacao      << execução
+
+02. Não seria possivel executar o codigo, a variável ainda não foi inicializada
+com um valor.
+
+03.
+
+04.
+
+05. int a = 10; 
+    int b = 1; 
+    int soma = a + b;
+    System.out.println("Soma: " + soma); 
+
+09. A questão 6 é mais estruturada. As questões 7 e 8 são orientadas a objeto,
+também são mais modularizadas e mais fácil de ter o codigo reutilizado.
