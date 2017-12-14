@@ -1,0 +1,14 @@
+﻿01. Não, classes abstratas são apenas modelos a serem seguidos por outras classes.
+
+
+
+02. O metodo da classe abstrata deve ser reescrito na classe concreta para que funcione corretamente, 
+
+pois ele é apenas um metodo abstrato.
+
+
+
+03. Ela herdará os métodos exatamente como eles são, sem nenhuma modificação.
+
+07. Nesse caso, ele não estaria instanciando FigurasGeometricas, mas sim criando um array que contem 
+FigurasGeometricas.
